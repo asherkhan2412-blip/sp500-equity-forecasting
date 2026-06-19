@@ -22,7 +22,6 @@ MLP model achieved RMSE of 12.2 when forecasting inflation-adjusted prices for M
 **Results**
 
 -	Goldman Sachs had the strongest performance over the 252 trading days, with its increase by around 76%, whilst Microsoft decreased by approximately 20%.
--	
 -	Shorter training windows generally produced more accurate forecasts, with a 6-month window outperforming longer windows.
 -	Forecasting performance varied dramatically across companies, with Bank of America having the lowest prediction error (RMSE = 1.28) whilst Tesla and Goldman Sachs were far harder to model accurately, with each having an RMSE of 18.50 and 17.52, respectively.
 -	Stocks that were less volatile and had smoother price trends tended to generate the most reliable forecasts.
