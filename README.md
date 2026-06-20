@@ -21,6 +21,7 @@ The analysis includes data collection, inflation adjustment using CPI data and p
 MLP model achieved RMSE of 12.2 when forecasting inflation-adjusted prices for Microsoft
 
 <img width="798" height="394" alt="image" src="https://github.com/user-attachments/assets/b1d67011-5d08-44d7-8e74-13ca6992be50" />
+
 Comparison of forecasting accuracy across companies using MAE and RMSE
 
   
